@@ -3,17 +3,22 @@ body {
     center no-repeat fixed;
 }
 .header_home {
-  height: 200px;
+  height: 150px;
   border-radius: 15px;
   box-shadow: 0 0 10px rgb(0, 0, 0);
-  background-color: rgb(129, 45, 211, 0.2);
+  background-color: rgba(88, 52, 30, 0.247);
 }
 
 .header_nav {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .top_nav_list {
-  padding: 7px;
+  padding: 10px;
   display: inline-block;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
