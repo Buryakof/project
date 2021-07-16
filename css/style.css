@@ -1,18 +1,19 @@
+body {
+  background: url("../img/depositphotos_22012205-stock-photo-guitar-pick.jpg")
+    center no-repeat fixed;
+}
 .header_home {
   height: 200px;
   border-radius: 15px;
   box-shadow: 0 0 10px rgb(0, 0, 0);
   background-color: rgb(129, 45, 211, 0.2);
- 
 }
 
 .header_nav {
   font-size: 20px;
-  
 }
 
 .top_nav_list {
   padding: 7px;
   display: inline-block;
 }
-
