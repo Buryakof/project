@@ -1,7 +1,8 @@
 body {
-  background: url("../img/depositphotos_22012205-stock-photo-guitar-pick.jpg")
-    center no-repeat fixed;
+  height: 1000px;
+  background: url('../img/123.jpg') 0 0/100% 100% no-repeat;
 }
+
 .header_home {
   height: 150px;
   border-radius: 15px;
